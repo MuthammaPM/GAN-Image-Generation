@@ -33,5 +33,4 @@ The model generates synthetic handwritten digit images after training.
 **Muthamma P M**
 
 ## Sample Output
-![Generated Digitals](generated_images/
-generated_digits.png)
+![Generated Digitals](generated_images/generated_digits.png)
