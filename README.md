@@ -1,5 +1,9 @@
 # GAN Image Generation using PyTorch
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 ## Overview
 This project implements a Generative Adversarial Network (GAN) using PyTorch to generate handwritten digit images from random noise using the MNIST dataset.
 
